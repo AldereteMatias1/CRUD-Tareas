@@ -1,0 +1,16 @@
+{
+  "name": "proyect-crud-tareas",
+  "version": "1.0.0",
+  "description": "practica CRUD",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matias alderete",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
